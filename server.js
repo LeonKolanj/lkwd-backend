@@ -165,5 +165,3 @@ app.listen(PORT, () => {
   console.log(`📁 Data sparas i: ${DATA_FILE}`);
   console.log(`🔐 Admin-token TTL: ${TOKEN_TTL_HOURS} timmar\n`);
 });
-  console.log(`Server körs på http://localhost:${PORT}`)
-})
